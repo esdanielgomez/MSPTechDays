@@ -10,7 +10,7 @@ To classify images with SPAM through Custom Vision you can follow the following 
 
 ## List of instructions to perform an application of a intelligent auditorium
 
-The dataset can be used in luis.ai
+The dataset can be used in https://luis.ai
 
 ## IA - Intelligent Translator
 
