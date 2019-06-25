@@ -1,4 +1,4 @@
-# Workshop about Cognitive Azure Services and the human side of intelligent applications in MSP Tech Days
+# Workshop about Azure Cognitive Services and the human side of intelligent applications in MSP Tech Days
 
 ## Face API Demo
 
